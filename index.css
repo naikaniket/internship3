@@ -1,0 +1,77 @@
+body {
+    margin: 30px;
+    background-color: white;
+}
+
+.box {
+    padding: 20px;
+    border: 2px solid darksalmon;
+    border-radius: 35px;
+    width: fit-content;
+    margin: 20px;
+}
+
+.col1 {
+    padding: 5px;
+    margin: 5px;
+    display: inline-flex;
+}
+
+.text {
+    padding-left: 10px;
+}
+
+.t1 {
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 7px;
+}
+
+.t2 {
+    font-family: system-ui;
+    font-weight: lighter;
+}
+
+.applicon {
+    padding-left: 131px;
+    padding-bottom: 2px;
+}
+
+.applno {
+    padding-left: 64px;
+    font-family: system-ui;
+}
+
+.col2 {
+    padding-top: 7px;
+    padding-left: 18px;
+}
+
+.loc {
+    display: inline-flex;
+}
+
+.desc {
+    padding-left: 14px;
+    font-family: system-ui;
+    font-size: 14px;
+}
+
+.jobinfo {
+    display: inline-flex;
+    padding-left: 201px;
+}
+
+.col3 {
+    padding-top: 6px;
+    display: inline-flex;
+}
+
+.req {
+    padding-left: 12px;
+}
+
+.ldate {
+    display: inline-flex;
+    padding-left: 179px;
+}
